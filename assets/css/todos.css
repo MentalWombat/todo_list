@@ -30,6 +30,7 @@ input {
   border: 3px solid rgba(0, 0, 0, 0);
   box-sizing: border-box;
   color: #904e95;
+  display: none;
   font-size: 18px;
   padding: 13px;
   width: 100%;
